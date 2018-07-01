@@ -1,0 +1,183 @@
+------------myApriori Statictics----------------
+No of items 
+ |->  9  
+No of transactions 
+ |->  15  
+Min support percentage
+ |->  20  
+Min support rows
+ |->  3  
+No of iterations
+ |->  5  
+No of frequent itemsets
+ |->  15  
+Frequent ItemSets : 
+ |-> A2  
+ |-> A3  
+ |-> A4  
+ |-> A5  
+ |-> A6  
+ |-> A7  
+ |-> A8  
+ |-> A2  A3  
+ |-> A2  A4  
+ |-> A3  A5  
+ |-> A3  A7  
+ |-> A5  A6  
+ |-> A5  A7  
+ |-> A6  A7  
+ |-> A3  A5  A7  
+------------------------------------------------
+------------myApriori Statictics----------------
+No of items 
+ |->  169  
+No of transactions 
+ |->  9835  
+Min support percentage
+ |->  20  
+Min support rows
+ |->  1967  
+No of iterations
+ |->  3  
+No of frequent itemsets
+ |->  1  
+Frequent ItemSets : 
+ |-> whole.milk  
+------------------------------------------------
+------------myApriori Statictics----------------
+No of items 
+ |->  169  
+No of transactions 
+ |->  9835  
+Min support percentage
+ |->  2  
+Min support rows
+ |->  197  
+No of iterations
+ |->  5  
+No of frequent itemsets
+ |->  122  
+Frequent ItemSets : 
+ |-> beef  
+ |-> berries  
+ |-> beverages  
+ |-> bottled.beer  
+ |-> bottled.water  
+ |-> brown.bread  
+ |-> butter  
+ |-> butter.milk  
+ |-> candy  
+ |-> canned.beer  
+ |-> cat.food  
+ |-> chewing.gum  
+ |-> chicken  
+ |-> chocolate  
+ |-> citrus.fruit  
+ |-> coffee  
+ |-> cream.cheese  
+ |-> curd  
+ |-> dessert  
+ |-> domestic.eggs  
+ |-> frankfurter  
+ |-> frozen.meals  
+ |-> frozen.vegetables  
+ |-> fruit.vegetable.juice  
+ |-> grapes  
+ |-> ham  
+ |-> hamburger.meat  
+ |-> hard.cheese  
+ |-> hygiene.articles  
+ |-> ice.cream  
+ |-> long.life.bakery.product  
+ |-> margarine  
+ |-> meat  
+ |-> misc..beverages  
+ |-> napkins  
+ |-> newspapers  
+ |-> oil  
+ |-> onions  
+ |-> other.vegetables  
+ |-> pastry  
+ |-> pip.fruit  
+ |-> pork  
+ |-> rolls.buns  
+ |-> root.vegetables  
+ |-> salty.snack  
+ |-> sausage  
+ |-> shopping.bags  
+ |-> sliced.cheese  
+ |-> soda  
+ |-> specialty.bar  
+ |-> specialty.chocolate  
+ |-> sugar  
+ |-> tropical.fruit  
+ |-> uht.milk  
+ |-> waffles  
+ |-> whipped.sour.cream  
+ |-> white.bread  
+ |-> whole.milk  
+ |-> yogurt  
+ |-> beef  whole.milk  
+ |-> bottled.beer  whole.milk  
+ |-> bottled.water  other.vegetables  
+ |-> bottled.water  rolls.buns  
+ |-> bottled.water  soda  
+ |-> bottled.water  whole.milk  
+ |-> bottled.water  yogurt  
+ |-> brown.bread  whole.milk  
+ |-> butter  other.vegetables  
+ |-> butter  whole.milk  
+ |-> citrus.fruit  other.vegetables  
+ |-> citrus.fruit  whole.milk  
+ |-> citrus.fruit  yogurt  
+ |-> curd  whole.milk  
+ |-> domestic.eggs  other.vegetables  
+ |-> domestic.eggs  whole.milk  
+ |-> frankfurter  whole.milk  
+ |-> frozen.vegetables  whole.milk  
+ |-> fruit.vegetable.juice  other.vegetables  
+ |-> fruit.vegetable.juice  whole.milk  
+ |-> margarine  whole.milk  
+ |-> newspapers  whole.milk  
+ |-> other.vegetables  pastry  
+ |-> other.vegetables  pip.fruit  
+ |-> other.vegetables  pork  
+ |-> other.vegetables  rolls.buns  
+ |-> other.vegetables  root.vegetables  
+ |-> other.vegetables  sausage  
+ |-> other.vegetables  shopping.bags  
+ |-> other.vegetables  soda  
+ |-> other.vegetables  tropical.fruit  
+ |-> other.vegetables  whipped.sour.cream  
+ |-> other.vegetables  whole.milk  
+ |-> other.vegetables  yogurt  
+ |-> pastry  rolls.buns  
+ |-> pastry  soda  
+ |-> pastry  whole.milk  
+ |-> pip.fruit  tropical.fruit  
+ |-> pip.fruit  whole.milk  
+ |-> pork  whole.milk  
+ |-> rolls.buns  root.vegetables  
+ |-> rolls.buns  sausage  
+ |-> rolls.buns  soda  
+ |-> rolls.buns  tropical.fruit  
+ |-> rolls.buns  whole.milk  
+ |-> rolls.buns  yogurt  
+ |-> root.vegetables  tropical.fruit  
+ |-> root.vegetables  whole.milk  
+ |-> root.vegetables  yogurt  
+ |-> sausage  soda  
+ |-> sausage  whole.milk  
+ |-> shopping.bags  soda  
+ |-> shopping.bags  whole.milk  
+ |-> soda  tropical.fruit  
+ |-> soda  whole.milk  
+ |-> soda  yogurt  
+ |-> tropical.fruit  whole.milk  
+ |-> tropical.fruit  yogurt  
+ |-> whipped.sour.cream  whole.milk  
+ |-> whipped.sour.cream  yogurt  
+ |-> whole.milk  yogurt  
+ |-> other.vegetables  root.vegetables  whole.milk  
+ |-> other.vegetables  whole.milk  yogurt  
+------------------------------------------------
